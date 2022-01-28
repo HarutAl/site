@@ -9,8 +9,8 @@ function changeContent(el) {
 	}).done(function (content) {
 		$('.content').empty();
 		$('.content').append(content);
-		$(el).parents().find('.active').removeClass('active');
-		$(el).parent().addClass('active');
+		$('.rd-navbar-nav a[data-views='+page+']').parents().find('.active').removeClass('active');
+		$('.rd-navbar-nav a[data-views='+page+']').parent().addClass('active');
 		document.title = page.charAt(0).toUpperCase() + page.slice(1);
 		if(page =='home'){
 			load();

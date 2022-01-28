@@ -96,7 +96,7 @@
                         <div class="col-md-9 col-lg-6">
                             <div class="box-info-custom" style="background-image: url(images/home-3-02-735x394.jpg );">
                                 <div class="box-info-custom-inner">
-                                    <h5 class="box-info-custom-title"><a href="#"> Oven Repair</a></h5>
+                                    <h5 class="box-info-custom-title"><a href="#"> Range Oven Cook top Repair</a></h5>
                                     <p>Be sure that you work with a team of professionals who will be able to help you every step of the way with your oven repair needs.</p>
                                 </div>
                             </div>
@@ -112,8 +112,8 @@
                         <div class="col-md-9 col-lg-6">
                             <div class="box-info-custom" style="background-image: url(images/home-3-04-735x394.jpg );">
                                 <div class="box-info-custom-inner">
-                                    <h5 class="box-info-custom-title"><a href="#">Air Conditioner Repair</a></h5>
-                                    <p>Regardless of whether you need to repair, replace or maintain your current AC system or plan to install new air conditioning, we can help.</p>
+                                    <h5 class="box-info-custom-title"><a href="#">Microwave  Repair</a></h5>
+                                    <p>No matter what kind of microwave you have and what problems it has, our professional team will fix it.</p>
                                 </div>
                             </div>
                         </div>

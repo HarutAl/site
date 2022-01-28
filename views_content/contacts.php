@@ -28,7 +28,7 @@ if( !isset($_POST['value']) ){
                     <div class="unit flex-row unit-spacing-md">
                       <div class="unit-left"><span class="icon icon-primary fa-map-marker"></span></div>
                       <div class="unit-body">
-                        <h6><a class="text-darker" href="#">9863 - 9867 Mill Road, Cambridge, MG09 99HT</a></h6>
+                        <h6><a class="text-darker" href="#">9600 Windborne Ave. Las Vegas NV 89147</a></h6>
                       </div>
                     </div>
                   </li>
@@ -36,7 +36,7 @@ if( !isset($_POST['value']) ){
                     <div class="unit flex-row unit-spacing-md">
                       <div class="unit-left"><span class="icon icon-primary fa-phone"></span></div>
                       <div class="unit-body">
-                        <h6><a class="text-darker" href="tel:#">+1 800 603 6035</a></h6>
+                        <h6><a class="text-darker" href="tel:#">702 340 7305</a></h6>
                       </div>
                     </div>
                   </li>
@@ -55,7 +55,7 @@ if( !isset($_POST['value']) ){
                     <div class="unit flex-row unit-spacing-md">
                       <div class="unit-left"><span class="icon icon-primary fa-map-marker"></span></div>
                       <div class="unit-body">
-                        <h6><a class="text-darker" href="#">9870 St Vincent Place, Glasgow, DC 45 Fr 45</a></h6>
+                        <h6><a class="text-darker" href="#">9600 Windborne Ave. Las Vegas NV 89147</a></h6>
                       </div>
                     </div>
                   </li>
@@ -63,7 +63,7 @@ if( !isset($_POST['value']) ){
                     <div class="unit flex-row unit-spacing-md">
                       <div class="unit-left"><span class="icon icon-primary fa-phone"></span></div>
                       <div class="unit-body">
-                        <h6><a class="text-darker" href="tel:#">+1 800 603 6035</a></h6>
+                        <h6><a class="text-darker" href="tel:#">702 340 7305</a></h6>
                       </div>
                     </div>
                   </li>
